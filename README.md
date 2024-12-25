@@ -90,7 +90,7 @@ Browse and read blog posts created by other users.
 All the learning in this repository is heavily inspired by **Hitesh Choudhary**, also known as **Chai aur Code**.
 
 Check out his amazing content:
-[Code with Chai on YouTube](https://www.youtube.com/c/HiteshChoudharydotcom)
+[Chai aur Code on YouTube](https://www.youtube.com/c/HiteshChoudharydotcom)
 
 ---
 
